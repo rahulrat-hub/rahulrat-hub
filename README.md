@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Raturi</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
 ## 👨‍💻 About Me
 
@@ -23,8 +24,6 @@ I enjoy solving real-world problems through code and continuously learning new t
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman,npm" />
 </p>
-
-<h3 align="center">MERN Stack Developer</h3>
 
 - 🔭 Currently working on MERN Projects
 - 🌱 Learning Next.js & TypeScript
