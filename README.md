@@ -3,8 +3,10 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulraturi84@gmail.com) 
 
 # 💻 Tech Stack:
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman,npm" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
