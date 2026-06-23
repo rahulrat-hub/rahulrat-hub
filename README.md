@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Raturi</h1>
 
+## 👨‍💻 About Me
+
+I am a passionate and motivated MERN Stack Developer with a strong foundation in React.js, Node.js, Express.js, and MongoDB. As a recent graduate, I have built several full-stack web applications and gained hands-on experience in developing responsive user interfaces, REST APIs, authentication systems, and cloud-based image management using Multer and Cloudinary.
+
+I enjoy solving real-world problems through code and continuously learning new technologies to improve my development skills. My goal is to contribute to impactful projects, collaborate with experienced teams, and grow as a software developer while delivering high-quality solutions.
+
+🚀 Open to opportunities as a Frontend Developer, React Developer, or MERN Stack Developer.
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raturi-a83a67349/)
