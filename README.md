@@ -1,13 +1,10 @@
-
-### 🌐 Socials:
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raturi-a83a67349/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulraturi84@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-omega-roan-99.vercel.app/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulrat-hub)
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 
 
 # 💻 Tech Stack:
