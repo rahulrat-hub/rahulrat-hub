@@ -28,6 +28,23 @@
 
 ![Snake animation](https://github.com/rahulrat-hub/rahulrat-hub/blob/output/github-contribution-grid-snake.svg)
 
+## 🚀 Featured Projects
+
+### Blogify
+A full-stack MERN blog platform with authentication, search, sorting, and CRUD operations.
+
+### Shubh Yog Shala
+A yoga website built with React.js and modern UI design.
+
+### E-Commerce Admin Panel
+Product management dashboard with image upload and inventory control.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulrat-hub&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrat-hub&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulrat-hub&theme=tokyonight)
+
 
 
 
