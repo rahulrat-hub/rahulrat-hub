@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulraturi84@gmail.com) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulrat-hub&show_icons=true&theme=tokyonight)
 
 
 # 💻 Tech Stack:
