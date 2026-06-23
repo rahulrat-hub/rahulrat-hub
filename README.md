@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rahul Raturi</h1>
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raturi-a83a67349/)
@@ -13,9 +15,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman,npm" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Rahul Raturi</h1>
 
 <h3 align="center">MERN Stack Developer</h3>
 
