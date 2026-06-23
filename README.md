@@ -7,7 +7,7 @@
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 
 
-# 💻 Tech Stack:
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
