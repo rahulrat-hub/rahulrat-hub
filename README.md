@@ -13,3 +13,15 @@
 [![](https://visitcount.itsvg.in/api?id=rahulrat-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+
+<h3 align="center">MERN Stack Developer from India</h3>
+
+- 🔭 Currently working on MERN Projects
+- 🌱 Learning Next.js & TypeScript
+- 💬 Ask me about React, Node.js, MongoDB
+- 📫 Email: yourmail@gmail.com
+
+### Connect with me
+
+[LinkedIn](https://linkedin.com/in/yourprofile)
