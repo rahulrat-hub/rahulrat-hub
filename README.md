@@ -1,6 +1,8 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulraturi84@gmail.com) 
+[![Linkedin](https://www.linkedin.com/in/rahul-raturi-a83a67349/) 
+
 
 # 💻 Tech Stack:
 <h3 align="left">🛠️ Languages and Tools:</h3>
