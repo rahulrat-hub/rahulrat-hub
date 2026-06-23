@@ -24,6 +24,10 @@
 [LinkedIn](https://www.linkedin.com/in/rahul-raturi-a83a67349/)
 [Portfolio](https://my-portfolio-omega-roan-99.vercel.app/)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/rahulrat-hub/rahulrat-hub/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
