@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Raturi</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="./assets/coding-animation.svg" width="100%" alt="Coding Animation">
-</p>
-
 ## 👨‍💻 About Me
 
 I am a passionate and motivated MERN Stack Developer with a strong foundation in React.js, Node.js, Express.js, and MongoDB. As a recent graduate, I have built several full-stack web applications and gained hands-on experience in developing responsive user interfaces, REST APIs, authentication systems, and cloud-based image management using Multer and Cloudinary.
